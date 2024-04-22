@@ -19,12 +19,12 @@ Para garantir a execução correta do sistema, é importante seguir algumas inst
    - Execute a classe `Main.java`.
    - O menu abaixo irá aparecer com as opções:
   
-     [1] Alocar cliente
-     [2] Liberar mesa
-     [3] Ver mesas ocupadas
-     [4] Ver lista de espera
-     [0] Sair
-     Escolha uma opção:
+     - [1] Alocar cliente
+     - [2] Liberar mesa
+     - [3] Ver mesas ocupadas
+     - [4] Ver lista de espera
+     - [0] Sair
+     - Escolha uma opção:
   
    - Com isso, voce deve escolher uma das opções de acordo com o que voce deseja fazer no sistema. 
 
