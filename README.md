@@ -9,6 +9,7 @@ Um restaurante atende seus clientes alocando-os em mesas por meio de 'requisiç�
 * Gustavo Costa Gabrich
 * Luiz Filipe Nery Costa
 * Pedro Pessoa
+* Pedro Teodoro Castro Valadares
 
 ## Professor responsável 
 
