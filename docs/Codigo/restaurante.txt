@@ -1,0 +1,2 @@
+Mesa: 9, Capacidade: 8, Cliente: luiz (Pessoas: 8)
+Mesa: 10, Capacidade: 8, Cliente: gustavo (Pessoas: 8)
