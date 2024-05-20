@@ -9,4 +9,5 @@ Coloque aqui todas as versões do seu diagrama de classes. Cada versão deve com
 
 * [Diagrama v.4.pdf](https://github.com/pucmg-aulas/projeto01-turmag1-fans-do-chico-moedas/files/15148795/Diagrama.v.4.pdf)
 
-* [Diagrama.v.5.pdf](https://github.com/pucmg-aulas/projeto01-turmag1-fans-do-chico-moedas/files/15378040/Diagrama.v.4.1.pdf)
+* [Diagrama.v5.pdf](https://github.com/pucmg-aulas/projeto01-turmag1-fans-do-chico-moedas/files/15378163/Diagrama.v5.1.pdf)
+
