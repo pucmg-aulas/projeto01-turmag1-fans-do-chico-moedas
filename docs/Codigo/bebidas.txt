@@ -1,5 +1,0 @@
-Água: R$ 7.50
-Suco: R$ 15.00
-Refrigerante: R$ 12.00
-Cerveja: R$ 24.00
-Taça de vinho: R$ 30.00
